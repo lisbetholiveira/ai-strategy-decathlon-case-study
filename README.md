@@ -8,6 +8,12 @@
 
 > **Disclaimer:** This is an independent academic case study. It was not commissioned by, and is not affiliated with, Decathlon.
 
+## Visual overview
+
+[![Decathlon AI strategy visual overview](assets/decathlon-ai-strategy-infographic.jpg)](assets/decathlon-ai-strategy-infographic.jpg)
+
+*Portfolio infographic summarising the six AI opportunities, the customer-experience value flow and the phygital-store vision.*
+
 ## Executive summary
 
 Decathlon already uses AI across areas such as demand forecasting, stock management, online personalisation, product discovery and supply-chain optimisation. The strategic question explored in this project was therefore not simply *where can AI be introduced?*, but **how could AI deepen customer value in the short term and enable new service and retail models over the longer term?**
