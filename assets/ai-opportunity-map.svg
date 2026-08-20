@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#ffffff"/>
+  <rect x="22" y="22" width="1156" height="476" rx="24" fill="#f8fafc" stroke="#dbe4f0"/>
+  <text x="60" y="74" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#172554">AI OPPORTUNITY MAP</text>
+  <text x="60" y="105" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#475569">From near-term value creation to long-term business transformation</text>
+
+  <rect x="60" y="140" width="510" height="300" rx="20" fill="#eef4ff" stroke="#b9ccff"/>
+  <rect x="630" y="140" width="510" height="300" rx="20" fill="#f7f2ff" stroke="#d8c5ff"/>
+  <rect x="60" y="140" width="510" height="54" rx="20" fill="#2257c7"/>
+  <rect x="630" y="140" width="510" height="54" rx="20" fill="#7a55c7"/>
+  <text x="315" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#ffffff">SHORT TERM</text>
+  <text x="885" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#ffffff">LONG TERM</text>
+
+  <line x1="230" y1="214" x2="230" y2="414" stroke="#c7d5f4"/>
+  <line x1="400" y1="214" x2="400" y2="414" stroke="#c7d5f4"/>
+  <line x1="800" y1="214" x2="800" y2="414" stroke="#ddcef8"/>
+  <line x1="970" y1="214" x2="970" y2="414" stroke="#ddcef8"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <circle cx="145" cy="248" r="34" fill="#dce8ff"/><text x="145" y="258" font-size="28" font-weight="700" fill="#2257c7">1</text>
+    <text x="145" y="304" font-size="17" font-weight="700" fill="#172554">Personalisation</text>
+    <text x="145" y="332" font-size="14" fill="#475569">Customer data + context</text>
+    <text x="145" y="352" font-size="14" fill="#475569">to increase relevance</text>
+    <text x="145" y="394" font-size="13" font-weight="700" fill="#2257c7">VALUE: CX + conversion</text>
+
+    <circle cx="315" cy="248" r="34" fill="#dce8ff"/><text x="315" y="258" font-size="28" font-weight="700" fill="#2257c7">2</text>
+    <text x="315" y="304" font-size="17" font-weight="700" fill="#172554">Stock &amp; logistics</text>
+    <text x="315" y="332" font-size="14" fill="#475569">Predictive demand</text>
+    <text x="315" y="352" font-size="14" fill="#475569">and smarter availability</text>
+    <text x="315" y="394" font-size="13" font-weight="700" fill="#2257c7">VALUE: efficiency</text>
+
+    <circle cx="485" cy="248" r="34" fill="#dce8ff"/><text x="485" y="258" font-size="28" font-weight="700" fill="#2257c7">3</text>
+    <text x="485" y="304" font-size="17" font-weight="700" fill="#172554">Virtual assistants</text>
+    <text x="485" y="332" font-size="14" fill="#475569">Contextual support</text>
+    <text x="485" y="352" font-size="14" fill="#475569">beyond basic FAQs</text>
+    <text x="485" y="394" font-size="13" font-weight="700" fill="#2257c7">VALUE: 24/7 service</text>
+
+    <circle cx="715" cy="248" r="34" fill="#eadfff"/><text x="715" y="258" font-size="28" font-weight="700" fill="#7a55c7">4</text>
+    <text x="715" y="304" font-size="17" font-weight="700" fill="#172554">Digital coach</text>
+    <text x="715" y="332" font-size="14" fill="#475569">Adaptive training</text>
+    <text x="715" y="352" font-size="14" fill="#475569">and ongoing engagement</text>
+    <text x="715" y="394" font-size="13" font-weight="700" fill="#7a55c7">VALUE: loyalty + services</text>
+
+    <circle cx="885" cy="248" r="34" fill="#eadfff"/><text x="885" y="258" font-size="28" font-weight="700" fill="#7a55c7">5</text>
+    <text x="885" y="304" font-size="17" font-weight="700" fill="#172554">Wearables</text>
+    <text x="885" y="332" font-size="14" fill="#475569">Real-time activity</text>
+    <text x="885" y="352" font-size="14" fill="#475569">and recovery insights</text>
+    <text x="885" y="394" font-size="13" font-weight="700" fill="#7a55c7">VALUE: advanced CX</text>
+
+    <circle cx="1055" cy="248" r="34" fill="#eadfff"/><text x="1055" y="258" font-size="28" font-weight="700" fill="#7a55c7">6</text>
+    <text x="1055" y="304" font-size="17" font-weight="700" fill="#172554">Phygital stores</text>
+    <text x="1055" y="332" font-size="14" fill="#475569">AI + AR + computer vision</text>
+    <text x="1055" y="352" font-size="14" fill="#475569">across physical retail</text>
+    <text x="1055" y="394" font-size="13" font-weight="700" fill="#7a55c7">VALUE: new journey</text>
+  </g>
+
+  <path d="M570 290 C595 290 605 290 630 290" fill="none" stroke="#64748b" stroke-width="3" stroke-dasharray="7 7"/>
+  <polygon points="626,282 642,290 626,298" fill="#64748b"/>
+  <text x="600" y="274" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#64748b">EVOLUTION</text>
+</svg>
