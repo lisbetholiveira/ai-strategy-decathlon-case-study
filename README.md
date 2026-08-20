@@ -10,7 +10,7 @@
 
 ## Visual overview
 
-[![Decathlon AI strategy visual overview](assets/decathlon-ai-strategy-infographic.jpg)](assets/decathlon-ai-strategy-infographic.jpg)
+[![Decathlon AI strategy visual overview](assets/decathlon-ai-strategy-infographic.png)](assets/decathlon-ai-strategy-infographic.png)
 
 *Portfolio infographic summarising the six AI opportunities, the customer-experience value flow and the phygital-store vision.*
 
