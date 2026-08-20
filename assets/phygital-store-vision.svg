@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#ffffff"/>
+  <rect x="22" y="22" width="1156" height="476" rx="24" fill="#f8fafc" stroke="#dbe4f0"/>
+  <text x="60" y="76" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#172554">PHYGITAL STORE VISION</text>
+  <text x="60" y="106" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#475569">A seamless journey where digital context follows the customer into the physical store</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="65" y="155" width="230" height="260" rx="20" fill="#eef4ff" stroke="#b9ccff"/>
+    <text x="180" y="190" text-anchor="middle" font-size="18" font-weight="700" fill="#2257c7">1 · SMART DATA CAPTURE</text>
+    <circle cx="180" cy="245" r="38" fill="#dce8ff"/><text x="180" y="255" text-anchor="middle" font-size="30" font-weight="700" fill="#2257c7">◉</text>
+    <text x="95" y="310" font-size="15" fill="#172554">• Customer profile &amp; goals</text>
+    <text x="95" y="338" font-size="15" fill="#172554">• App / loyalty context</text>
+    <text x="95" y="366" font-size="15" fill="#172554">• Computer vision signals</text>
+
+    <rect x="350" y="155" width="230" height="260" rx="20" fill="#f2edff" stroke="#d8c5ff"/>
+    <text x="465" y="190" text-anchor="middle" font-size="18" font-weight="700" fill="#7a55c7">2 · AI PERSONALISATION</text>
+    <circle cx="465" cy="245" r="38" fill="#eadfff"/><text x="465" y="255" text-anchor="middle" font-size="28" font-weight="700" fill="#7a55c7">AI</text>
+    <text x="380" y="310" font-size="15" fill="#172554">• Real-time recommendations</text>
+    <text x="380" y="338" font-size="15" fill="#172554">• Size / product matching</text>
+    <text x="380" y="366" font-size="15" fill="#172554">• Dynamic guidance</text>
+
+    <rect x="635" y="155" width="230" height="260" rx="20" fill="#eaf9f7" stroke="#b1e2da"/>
+    <text x="750" y="190" text-anchor="middle" font-size="18" font-weight="700" fill="#0f766e">3 · IMMERSIVE EXPERIENCE</text>
+    <circle cx="750" cy="245" r="38" fill="#d9f4ef"/><text x="750" y="255" text-anchor="middle" font-size="26" font-weight="700" fill="#0f766e">AR</text>
+    <text x="665" y="310" font-size="15" fill="#172554">• Virtual try-on</text>
+    <text x="665" y="338" font-size="15" fill="#172554">• Interactive product info</text>
+    <text x="665" y="366" font-size="15" fill="#172554">• Connected store journey</text>
+
+    <rect x="920" y="155" width="215" height="260" rx="20" fill="#eef2ff" stroke="#c7d2fe"/>
+    <text x="1028" y="190" text-anchor="middle" font-size="18" font-weight="700" fill="#3730a3">4 · FRICTIONLESS EXIT</text>
+    <circle cx="1028" cy="245" r="38" fill="#e0e7ff"/><text x="1028" y="255" text-anchor="middle" font-size="28" font-weight="700" fill="#3730a3">✓</text>
+    <text x="950" y="310" font-size="15" fill="#172554">• Scan &amp; Go</text>
+    <text x="950" y="338" font-size="15" fill="#172554">• Cashier-less concepts</text>
+    <text x="950" y="366" font-size="15" fill="#172554">• Omnichannel fulfilment</text>
+  </g>
+
+  <g stroke="#64748b" stroke-width="3" fill="#64748b">
+    <line x1="295" y1="285" x2="340" y2="285"/><polygon points="336,277 352,285 336,293"/>
+    <line x1="580" y1="285" x2="625" y2="285"/><polygon points="621,277 637,285 621,293"/>
+    <line x1="865" y1="285" x2="910" y2="285"/><polygon points="906,277 922,285 906,293"/>
+  </g>
+
+  <rect x="150" y="443" width="900" height="36" rx="12" fill="#172554"/>
+  <text x="600" y="467" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">PHYSICAL RETAIL + DIGITAL CONTEXT + AI = A CONTINUOUS CUSTOMER JOURNEY</text>
+</svg>
