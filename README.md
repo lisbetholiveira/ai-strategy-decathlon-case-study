@@ -3,7 +3,7 @@
 > Academic case study on the impact of Artificial Intelligence on Decathlon, reframed as a professional portfolio project.
 
 **Context:** Postgraduate Programme in Artificial Intelligence applied to Marketing — IPAM, June 2026  
-**Original academic project:** *O impacto da IA & perspectivas de transformação*  
+**Original academic project:** *O impacto da IA & perspectives de transformação*  
 **Co-developed by:** Lisbeth Chavez Oliveira & Luiza Callizo
 
 > **Disclaimer:** This is an independent academic case study. It was not commissioned by, and is not affiliated with, Decathlon.
@@ -23,11 +23,15 @@ The analysis identifies six opportunity areas across two horizons:
 | Long term | Wearables & performance monitoring | Advanced personalisation based on real-time activity and recovery data |
 | Long term | Phygital stores | Integrated physical/digital shopping through AI, computer vision and AR |
 
+![AI opportunity map](assets/ai-opportunity-map.svg)
+
 ## Business context
 
 Decathlon serves a broad spectrum of customers — from beginners and families to regular practitioners, athletes and consumers focused on health and wellbeing. This creates a central strategic challenge: **how to deliver relevance at scale across very different needs, levels of expertise and sports.**
 
 At the same time, trends such as wellness, digital fitness, wearables and personalisation are shifting expectations from simple product retail toward more connected, continuous experiences.
+
+![AI customer experience flow](assets/customer-experience-ai-flow.svg)
 
 ## Current AI footprint considered in the analysis
 
@@ -118,6 +122,8 @@ This moves the relationship from **product retailer** toward **ongoing sports an
 ### 3. Phygital stores
 
 The long-term concept combines the physical store with AI-enabled digital experiences, including computer vision and augmented-reality interfaces.
+
+![Phygital store vision](assets/phygital-store-vision.svg)
 
 The scenarios explored include:
 - Smart fitting experiences
