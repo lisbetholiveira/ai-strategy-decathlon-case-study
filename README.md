@@ -3,7 +3,7 @@
 > Academic case study on the impact of Artificial Intelligence on Decathlon, reframed as a professional portfolio project.
 
 **Context:** Postgraduate Programme in Artificial Intelligence applied to Marketing — IPAM, June 2026  
-**Original academic project:** *O impacto da IA & perspectives de transformação*  
+**Original academic project:** *O impacto da IA & perspectivas de transformação*  
 **Co-developed by:** Lisbeth Chavez Oliveira & Luiza Callizo
 
 > **Disclaimer:** This is an independent academic case study. It was not commissioned by, and is not affiliated with, Decathlon.
